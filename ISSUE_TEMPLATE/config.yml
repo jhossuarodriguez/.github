@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Preguntas y soporte
+    url: https://github.com/orgs/Jhossua-s-Org/discussions
+    about: Para dudas generales usa Discussions; los issues son solo para bugs y mejoras.
